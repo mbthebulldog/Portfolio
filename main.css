@@ -11,7 +11,7 @@ a {
 }
 /*Header*/
 #header {
-    background-color: #aec0c1;
+    background-color: #95c9d0;
     color: #0b101c;
     font-family: 'Comfortaa', cursive;
     font-size: 60px;
@@ -43,7 +43,7 @@ a {
     padding: 1%;
 }
 #main section .panel {
-    background: linear-gradient(#aec0c1, #95c9d0);
+    background: linear-gradient(#95c9d0, #aec0c1);
     border-radius: 10px;
     box-shadow: 1px 1px 5px #0b101c;
     color: #0b101c;
@@ -108,7 +108,7 @@ button {
 }
 /*Footer*/
 #footer {
-    background-color: #95c9d0;
+    background-color: #aec0c1;
     font-family: inherit;
     margin: 0 0 1% 0;
     text-align: right;
