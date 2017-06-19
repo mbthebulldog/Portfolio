@@ -27,7 +27,7 @@ a {
 }
 @media screen and (min-width: 768px) {
     #navbar {
-        display: none !important;
+        display: none;
     }
 }
 #header, #footer {
@@ -88,11 +88,9 @@ p {
 i {
     color: #0b101c;
 }
-.fa {
-    height: 200%;
 }
 .fa:hover {
-    opacity: 0.65;
+    opacity: 0.5;
 }
 #contactForm {
     text-align: left;
@@ -110,6 +108,6 @@ button {
 #footer {
     background-color: #aec0c1;
     font-family: inherit;
-    margin: 0 0 1% 0;
+    margin: 0 0 2% 0;
     text-align: right;
 }
