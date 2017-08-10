@@ -64,6 +64,17 @@ p {
 #aboutPic {
     margin: 10% 0 15% 0;
 }
+/*Contact*/
+#socialIcons {
+    margin-bottom: 10%;
+}
+i {
+    color: #0b101c;
+}
+}
+.fa:hover {
+    opacity: 0.5;
+}
 /*Portfolio*/
 .workRight {
     margin-left: 20%;
@@ -80,29 +91,6 @@ p {
     border-radius: 10px;
     width: 100%;
     margin-bottom: 15px;
-}
-/*Contact*/
-#socialIcons {
-    margin-bottom: 10%;
-}
-i {
-    color: #0b101c;
-}
-}
-.fa:hover {
-    opacity: 0.5;
-}
-#contactForm {
-    text-align: left;
-}
-#contactForm label {
-    margin-top: 10px;
-}
-#sendButton {
-    text-align: center;
-}
-button {
-    width: 100%;
 }
 /*Footer*/
 #footer {
