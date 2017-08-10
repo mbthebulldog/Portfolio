@@ -48,6 +48,7 @@ a {
     box-shadow: 1px 1px 5px #0b101c;
     color: #0b101c;
     font-family: inherit;
+    height: 100%;
     padding: 10px;
 }
 .sectionHead {
@@ -61,16 +62,24 @@ p {
     text-align: justify;
 }
 /*About*/
+#about {
+  height: 100%;
+}
 #aboutPic {
     margin: 10% 0 15% 0;
 }
 /*Contact*/
+#contact {
+  margin-top: 30%;
+}
 #socialIcons {
     margin-bottom: 10%;
 }
 i {
     color: #0b101c;
 }
+.fa {
+  margin-right: 3%;
 }
 .fa:hover {
     opacity: 0.5;
