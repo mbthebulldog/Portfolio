@@ -1,3 +1,8 @@
+/*Font*/
+@font-face {
+	font-family: 'ValentineHand';
+	src: url('https://2ttf.com/webfont/LHfdnEVX5Uy/webfont.ttf') format('truetype');
+}
 /*Body*/
 body {
     text-align: center;
